@@ -1,6 +1,6 @@
 pandas==1.2.2
 matplotlib==3.3.4
 fer==20.1.1
-opencv_python==4.5.1.48
+opencv-python--headless
 streamlit==0.76.0
 numpy==1.19.5
